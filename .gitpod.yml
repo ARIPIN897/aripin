@@ -1,4 +1,4 @@
-image: ghcr.io/traversaro/gitpod-ubuntu-20.04:latest
+image: ghcr.io/ARIPIN897/aripin
 ports:
 - port: 6080
   onOpen: notify
